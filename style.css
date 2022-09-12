@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: black;
+}
+
+#logo{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    stroke-dasharray: 2px;
+}
+
+/* Selecting letters in DESIGNER  ONE BY ONE */
+
+
+#logo path:nth-child(1){
+    stroke-dasharray: 20px;    
+}
+
+#logo path:nth-child(2){
+
+}
+
+#logo path:nth-child(3){
+
+}
+
+#logo path:nth-child(4){
+
+}
+
+#logo path:nth-child(5){
+
+}
+
+#logo path:nth-child(6){
+
+}
+
+#logo path:nth-child(7){
+
+}
+#logo path:nth-child(8){
+
+}
